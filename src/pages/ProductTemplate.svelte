@@ -3,4 +3,4 @@
   export let location;
 </script>
 
-<h1>product template</h1>
+<h1>product template page with id :{id} </h1>
